@@ -8,7 +8,7 @@ for(let i=1;i<=100;i++){
     }else if(i%15==0){
         console.log("HELLO WORLD")
     }else{
-        console.log("a")
+        console.log(i)
     }
 
 }
